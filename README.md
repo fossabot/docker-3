@@ -3,6 +3,7 @@
 [![Docker Stars](https://img.shields.io/docker/stars/jenkins/jenkins.svg)](https://hub.docker.com/r/jenkins/jenkins/)
 [![Docker Pulls](https://img.shields.io/docker/pulls/jenkins/jenkins.svg)](https://hub.docker.com/r/jenkins/jenkins/)
 [![Join the chat at https://gitter.im/jenkinsci/docker](https://badges.gitter.im/jenkinsci/docker.svg)](https://gitter.im/jenkinsci/docker?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fayg1042%2Fdocker.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fayg1042%2Fdocker?ref=badge_shield)
 
 The Jenkins Continuous Integration and Delivery server [available on Docker Hub](https://hub.docker.com/r/jenkins/jenkins).
 
@@ -355,3 +356,7 @@ For information related to the security of this Docker image, please refer to th
 # Questions?
 
 We're on Gitter, https://gitter.im/jenkinsci/docker
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fayg1042%2Fdocker.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fayg1042%2Fdocker?ref=badge_large)
